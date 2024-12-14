@@ -168,12 +168,12 @@ To connect to your cloud-based Linux instance:
 
 ## **Deliverables**
 1. **GitHub Repository**: Contains the source code, configuration files (excluding sensitive data), and documentation.
-   - [GitHub Repository Link](#)
-2. **Public URL**: Accessible website at `http://your-domain.com` or `http://<server-public-ip>/`.
+   - https://github.com/ba4a/Project.git
+2. **Public URL**: Accessible website at http://192.168.245.133:8080/.
+3. ![image](https://github.com/user-attachments/assets/fc00463d-91ae-4856-9307-5d23aea9e973)
+
 
 ---
 
-### **Contact**
-If you have any questions, feel free to reach out!
 
 
