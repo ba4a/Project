@@ -1,0 +1,7 @@
+# Ignore database credentials
+*.env
+config.php
+
+# Ignore OS and editor-specific files
+.DS_Store
+.vscode/
